@@ -1,0 +1,92 @@
+"C:\Program Files\Java\jdk1.8.0_151\bin\java" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2017.3.4\lib\idea_rt.jar=50643:C:\Program Files\JetBrains\IntelliJ IDEA 2017.3.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_151\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar;C:\Users\GBTC440008ur\IdeaProjects\ClosetProject\out\production\TripCloset" TripApp
+
+Need to fix summer ,choice two or more summer will add shoes. it should add remove and reset.
+
+
+Which Closet would you like to look at? Winter Fall or Summer?
+winter
+This closet Contains: 
+This Jacket is Large and Yellow. it is made of Windbreaker.
+This Shirt is Medium and Red. It is made of Denim and has Short-Sleeveds.
+These Pants are Large and Blue. They are Jeans Pants.
+These Shoes are size 9 and White. They are made by New Balance.
+
+
+Do you want to look at a different closet? (Y/N) 
+y
+
+Which Closet would you like to look at? Winter Fall or Summer?
+fall
+This closet Contains: 
+This Jacket is Medium and Grey. it is made of Fleece.
+This Shirt is large and Black. It is made of Cotton and has No-Sleevess.
+These Pants are Medium and White. They are Nylon Skirt.
+These Shoes are size 13 and Black. They are made by Jordans.
+
+
+Do you want to look at a different closet? (Y/N) 
+y
+
+Which Closet would you like to look at? Winter Fall or Summer?
+summer
+You need a second pair of shoes
+This closet Contains: 
+This Jacket is Medium and Black. it is made of Lether.
+This Shirt is large and Blue. It is made of Cotton and has Long-Sleeves.
+These Pants are Large and Red. They are Polyester Shorts.
+These Shoes are size 10 and Green. They are made by Nike.
+These Shoes are size 13 and Black. They are made by Jordans.
+
+
+Do you want to look at a different closet? (Y/N) 
+y
+
+Which Closet would you like to look at? Winter Fall or Summer?
+summer
+You need a second pair of shoes
+This closet Contains: 
+This Jacket is Medium and Black. it is made of Lether.
+This Shirt is large and Blue. It is made of Cotton and has Long-Sleeves.
+These Pants are Large and Red. They are Polyester Shorts.
+These Shoes are size 10 and Green. They are made by Nike.
+These Shoes are size 13 and Black. They are made by Jordans.
+These Shoes are size 9 and White. They are made by New Balance.
+
+
+Do you want to look at a different closet? (Y/N) 
+y
+
+Which Closet would you like to look at? Winter Fall or Summer?
+summer
+You need a second pair of shoes
+This closet Contains: 
+This Jacket is Medium and Black. it is made of Lether.
+This Shirt is large and Blue. It is made of Cotton and has Long-Sleeves.
+These Pants are Large and Red. They are Polyester Shorts.
+These Shoes are size 10 and Green. They are made by Nike.
+These Shoes are size 13 and Black. They are made by Jordans.
+These Shoes are size 9 and White. They are made by New Balance.
+These Shoes are size 13 and Black. They are made by Jordans.
+
+
+Do you want to look at a different closet? (Y/N) 
+y
+
+Which Closet would you like to look at? Winter Fall or Summer?
+summer
+You need a second pair of shoes
+This closet Contains: 
+This Jacket is Medium and Black. it is made of Lether.
+This Shirt is large and Blue. It is made of Cotton and has Long-Sleeves.
+These Pants are Large and Red. They are Polyester Shorts.
+These Shoes are size 10 and Green. They are made by Nike.
+These Shoes are size 13 and Black. They are made by Jordans.
+These Shoes are size 9 and White. They are made by New Balance.
+These Shoes are size 13 and Black. They are made by Jordans.
+These Shoes are size 13 and Black. They are made by Jordans.
+
+
+Do you want to look at a different closet? (Y/N) 
+n
+
+Process finished with exit code 0
